@@ -1,0 +1,17 @@
+{
+  "name": "realtime-taxi-demand",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "server"
+  ],
+  "scripts": {
+    "dev": "npm run -w server dev & npm run -w frontend dev"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.12"
+  }
+}
