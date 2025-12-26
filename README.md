@@ -1,5 +1,5 @@
 # 1) Clone
-git clone https://github.com/YOUR_GITHUB_USERNAME/realtime-taxi-demand.git
+git clone realtime-taxi-demand.git
 cd realtime-taxi-demand
 
 
